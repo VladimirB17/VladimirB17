@@ -1,4 +1,4 @@
-![Header](https://www.kv.by/sites/default/files/pictures/mainimage/2019/11/what_does_qa_stand_for.png)
+![Header](https://www.deckdentistry.com/images/banner-faqs.jpg)
 
 
 

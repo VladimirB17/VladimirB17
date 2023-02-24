@@ -46,6 +46,18 @@ height="40"/>&nbsp
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMaEQrkGqUymPUtUuxI1A6_yXRbC52ik7k7jynjt23Q1BvgoAQzZh8907Ky6xFSKF8c8&usqp=CAU" title="Redmine" alt="" width="40" height="40"/>&nbsp
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" title="Jira" alt="" width="40" height="40"/>&nbsp
 </div>
+                                                                                                                                        
+ ### Курсы:
+
+| Курсы | Дата |
+| ----------------------------------------------------------------| :---------------: |
+| sedtest-school.ru/Основы тестирования | 04/2021 - 06/2021 |
+| sedtest-school.ru/Тестирование REST API. Postman | 09/2022 - 10/2022 |
+| sedtest-school.ru/Основы GIT | 10/2022 - 11/2022 |
+| sedtest-school.ru/DevTools для тестировщика | 11/2022 - 12/2022 |
+| stepik.org/Интерактивный тренажер по SQL| 12/2022 - 01/2023 |
+                                                                                                                                    
+                                                                                                                                        
 
 <!--
 **VladimirB17/VladimirB17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

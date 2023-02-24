@@ -8,7 +8,7 @@
 
 Я начинающий тестировщик. В этой профессии мне нравится придумывать и проектировать различные сценарии работы, искать недочеты. Так же меня привлекает возможность задаваться вопросами типа "А что будет если?" и т.п. Помимо этого я сичтаю себя перфекционистом по натуре  и не люблю ошибки в программах, поэтому есть желание делать продукт лучше. Имею за плечами несколько пройденных курсов, постоянно практикую и совершенствую свои навыки. 
 
-
+---
 
 ### Мои социальные сети:
 
@@ -23,6 +23,8 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
 
+  ---
+  
 ### Навыки:
 
 <div>
@@ -35,6 +37,8 @@ height="40"/>&nbsp
 <img src="https://www.kunak.es/wp-content/uploads/2018/03/API.png" title="api" alt="" width="40" height="40"/>&nbsp
 </div>
 
+  ---
+  
 ### Программы:
 
 <div>
@@ -46,6 +50,8 @@ height="40"/>&nbsp
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMaEQrkGqUymPUtUuxI1A6_yXRbC52ik7k7jynjt23Q1BvgoAQzZh8907Ky6xFSKF8c8&usqp=CAU" title="Redmine" alt="" width="40" height="40"/>&nbsp
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" title="Jira" alt="" width="40" height="40"/>&nbsp
 </div>
+  
+   ---                                                                                                                                     
                                                                                                                                         
  ### Курсы:
 

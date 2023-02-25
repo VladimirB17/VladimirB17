@@ -62,6 +62,16 @@ height="40"/>&nbsp
 | sedtest-school.ru/Основы GIT | 10/2022 - 11/2022 |
 | sedtest-school.ru/DevTools для тестировщика | 11/2022 - 12/2022 |
 | stepik.org/Интерактивный тренажер по SQL| 12/2022 - 01/2023 |
+
+### Cтатистика GitHub:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=VladimirB17&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+  </tr>
+</table>
                                                                                                                                     
                                                                                                                                         
 

@@ -53,12 +53,13 @@ height="40"/>&nbsp
 
    --- 
  ### Тестовая документация:
+                                                                                                                                        
 [Тест-кейсы и чек-листы](https://github.com/VladimirB17/Check-lists-and-test-cases)
                                                                                                                                         
+[Баг-репорты](https://github.com/VladimirB17/Bug-reports)
                                                                                                                                         
- [Баг-репорты]
-                                                                                                                                        
- []
+[Коллекции постман](https://github.com/VladimirB17/Postman-collections)       
+                                                                                                                                    
    []
    ---                                                                                                                                     
                                                                                                                                         

@@ -54,8 +54,10 @@ height="40"/>&nbsp
    --- 
  ### Тестовая документация:
 [Тест-кейсы и чек-листы](https://github.com/VladimirB17/Check-lists-and-test-cases)
- [Чек-листы]
+                                                                                                                                        
+                                                                                                                                        
  [Баг-репорты]
+                                                                                                                                        
  []
    []
    ---                                                                                                                                     

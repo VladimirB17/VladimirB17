@@ -50,7 +50,14 @@ height="40"/>&nbsp
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMaEQrkGqUymPUtUuxI1A6_yXRbC52ik7k7jynjt23Q1BvgoAQzZh8907Ky6xFSKF8c8&usqp=CAU" title="Redmine" alt="" width="40" height="40"/>&nbsp
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" title="Jira" alt="" width="40" height="40"/>&nbsp
 </div>
-  
+
+   --- 
+ ### Тестовая документация:
+[Тест-кейсы]
+ [Чек-листы]
+ [Баг-репорты]
+ []
+   []
    ---                                                                                                                                     
                                                                                                                                         
  ### Курсы:

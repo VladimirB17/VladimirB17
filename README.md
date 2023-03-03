@@ -58,7 +58,11 @@ height="40"/>&nbsp
                                                                                                                                         
 [Баг-репорты](https://github.com/VladimirB17/Bug-reports)
                                                                                                                                         
-[Коллекции постман](https://github.com/VladimirB17/Postman-collections)       
+[Коллекции постман](https://github.com/VladimirB17/Postman-collections)   
+
+[Таблица состояния и переходов](https://github.com/VladimirB17/Table)
+
+
                                                                                                                                     
  
    ---                                                                                                                                     
